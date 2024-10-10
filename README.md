@@ -15,16 +15,13 @@ ______      _____ _ _               _____     _                _____     _      
 ```
 
 
-A simple tool to extract Discord tokens from `.exe` files packaged with PyInstaller. This tool is primarily for educational purposes and should not be used for malicious activities.
+A tool to extract Discord tokens from `.exe` files which are made with the malware Pysilon. Pysilon can be found at this link https://github.com/mategol/PySilon-malware
 
 ## Table of Contents
 
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
