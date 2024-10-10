@@ -70,3 +70,6 @@ Make sure you have Python 3.6 or higher installed on your machine. You will also
    ```bash
    python main.py
    ```
+
+
+Any issues open an issue or dm me on discord notauthorisedxdxd
