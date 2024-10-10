@@ -61,3 +61,12 @@ Make sure you have Python 3.6 or higher installed on your machine. You will also
    git clone https://github.com/notauthorisedxd/Pysilon-Decompile.git
    cd Pysilon-Decompile
    ```
+
+2. Download Dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run main.py
+   ```bash
+   python main.py
+   ```
