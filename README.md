@@ -30,5 +30,6 @@ Make sure you have Python 3.6 or higher installed on your machine. You will also
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/discord-token-extractor.git
-   cd discord-token-extractor
+   git clone https://github.com/notauthorisedxd/Pysilon-Decompile.git
+   cd Pysilon-Decompile
+   ```
