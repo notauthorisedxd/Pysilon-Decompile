@@ -15,7 +15,7 @@ ______      _____ _ _               _____     _                _____     _      
 ```
 
 
-A tool to extract Discord tokens from `.exe` files which are made with the malware Pysilon. Pysilon can be found at this link https://github.com/mategol/PySilon-malware
+A tool to extract Discord tokens from `.exe` files which are made with the malware Pysilon. Pysilon can be found at this link https://github.com/mategol/PySilon-malware \n \n
 
 
 
